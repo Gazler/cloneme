@@ -1,1 +1,1 @@
-This repository is here to be cloned for [Gitscrub](https://github.com/Gazler/gitscrub)
+This repository is here to be cloned for [Githug](https://github.com/Gazler/githug)
